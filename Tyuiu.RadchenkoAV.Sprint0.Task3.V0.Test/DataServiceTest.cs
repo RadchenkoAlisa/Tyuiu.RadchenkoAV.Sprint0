@@ -10,7 +10,7 @@ namespace Tyuiu.RadchenkoAV.Sprint0.Task3.V0.Test
         [TestMethod]
         public void CheckedValid()
         {
-            Assert.AreEqual(10, DataServiceTest.Sum(5, 5));
+            Assert.AreEqual(10, DataService.Sum(5, 5));
         }
     }
 }

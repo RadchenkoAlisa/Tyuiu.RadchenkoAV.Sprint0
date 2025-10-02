@@ -1,5 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools/ UnitTesting;
-using Tyuiu.RadchenkoAV.Sprint0.Task2.V0.Lib
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Tyuiu.RadchenkoAV.Sprint0.Task2.V0.Lib;
 
 namespace Tyuiu.RadchenkoAV.Sprint0.Task2.V0.Test
 {
